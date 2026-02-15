@@ -1,0 +1,9 @@
+{
+  "id": "fish-test-extension",
+  "name": "Test Extension",
+  "version": "1.0.0",
+  "entry": "index.js",
+  "depends": {},
+  "description": "A minimal test extension that registers a view node and a provider.",
+  "author": "fisch0"
+}
